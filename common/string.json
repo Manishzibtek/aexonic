@@ -1,0 +1,9 @@
+{
+    "SUCCESS_STATUS_CODE": 200,
+    "INTERNAL_ERROR_STATUS_CODE": 500,
+    "AUTHORIZATION_ERROR_STATUS_CODE": 401,
+    "UNAUTHORISED_ACCESS_MESSAGE": "Provide Authorization details",
+    "USER_ALREADY_EXISTS": "Email id already exists",
+    "SUCCESS_MESSAGE": "Success"
+    
+}
